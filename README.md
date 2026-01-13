@@ -411,21 +411,18 @@ public class ApiKeyAuthAttribute : Attribute, IAsyncActionFilter
 ## 📸 Preview
 
 <div align="center">
-<img src="ERP Pictures/Code/1.png" alt="Scalar API Documentation" width="90%" style="border: 4px solid #0066FF; border-radius: 12px; box-shadow: 0 8px 16px rgba(0,102,255,0.3);">
+    
+<img src="Images/1.jpg" width="90%" style="border: 4px solid #0066FF; border-radius: 12px; box-shadow: 0 8px 16px rgba(0,102,255,0.3);">
 <br/>
-<img src="ERP Pictures/Code/2.png" alt="Scalar API Documentation" width="90%" style="border: 4px solid #0066FF; border-radius: 12px; box-shadow: 0 8px 16px rgba(0,102,255,0.3);">
+<img src="Images/2.jpg" width="90%" style="border: 4px solid #0066FF; border-radius: 12px; box-shadow: 0 8px 16px rgba(0,102,255,0.3);">
 <br/>
-<img src="ERP Pictures/Code/3.png" alt="Scalar API Documentation" width="90%" style="border: 4px solid #0066FF; border-radius: 12px; box-shadow: 0 8px 16px rgba(0,102,255,0.3);">
+<img src="Images/3.jpg" width="90%" style="border: 4px solid #0066FF; border-radius: 12px; box-shadow: 0 8px 16px rgba(0,102,255,0.3);">
 <br/>
-<img src="ERP Pictures/Code/4.png" alt="Scalar API Documentation" width="90%" style="border: 4px solid #0066FF; border-radius: 12px; box-shadow: 0 8px 16px rgba(0,102,255,0.3);">
+<img src="Images/4.jpg" width="90%" style="border: 4px solid #0066FF; border-radius: 12px; box-shadow: 0 8px 16px rgba(0,102,255,0.3);">
 <br/>
-<img src="ERP Pictures/Code/5.png" alt="Scalar API Documentation" width="90%" style="border: 4px solid #0066FF; border-radius: 12px; box-shadow: 0 8px 16px rgba(0,102,255,0.3);">
+<img src="Images/5.jpg" width="90%" style="border: 4px solid #0066FF; border-radius: 12px; box-shadow: 0 8px 16px rgba(0,102,255,0.3);">
 <br/>
-<img src="ERP Pictures/Code/6.png" alt="Scalar API Documentation" width="90%" style="border: 4px solid #0066FF; border-radius: 12px; box-shadow: 0 8px 16px rgba(0,102,255,0.3);">
-<br/>
-<img src="ERP Pictures/Code/7.png" alt="Scalar API Documentation" width="90%" style="border: 4px solid #0066FF; border-radius: 12px; box-shadow: 0 8px 16px rgba(0,102,255,0.3);">
-<br/>
-<img src="ERP Pictures/Code/8.png" alt="Scalar API Documentation" width="90%" style="border: 4px solid #0066FF; border-radius: 12px; box-shadow: 0 8px 16px rgba(0,102,255,0.3);">
+<img src="Images/6.jpg" width="90%" style="border: 4px solid #0066FF; border-radius: 12px; box-shadow: 0 8px 16px rgba(0,102,255,0.3);">
 <br/>
 
 </div>
@@ -436,9 +433,10 @@ public class ApiKeyAuthAttribute : Attribute, IAsyncActionFilter
 Business-critical operations executed via stored functions for atomicity and speed:
 
 <div align="center">
-<img src="ERP Pictures/Code/1.png" alt="Scalar API Documentation" width="90%" style="border: 4px solid #0066FF; border-radius: 12px; box-shadow: 0 8px 16px rgba(0,102,255,0.3);">
+    
+<img src="Images/7.jpg" width="90%" style="border: 4px solid #0066FF; border-radius: 12px; box-shadow: 0 8px 16px rgba(0,102,255,0.3);">
 <br/>
-<img src="ERP Pictures/Code/2.png" alt="Scalar API Documentation" width="90%" style="border: 4px solid #0066FF; border-radius: 12px; box-shadow: 0 8px 16px rgba(0,102,255,0.3);">
+<img src="Images/8.jpg" alt="Scalar API Documentation" width="90%" style="border: 4px solid #0066FF; border-radius: 12px; box-shadow: 0 8px 16px rgba(0,102,255,0.3);">
 <br/>
 
 </div>
@@ -725,7 +723,7 @@ OSV-AI-Orchestrator/
 *Backend Developer | .NET Specialist*
 
 [![GitHub](https://img.shields.io/badge/GitHub-MohamedElmonyar-181717?style=for-the-badge&logo=github)](https://github.com/MohamedElmonyar)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/your-profile)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)]((https://www.linkedin.com/in/mohamed-elmonyar/))
 
 ---
 
