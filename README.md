@@ -212,7 +212,7 @@ graph LR
 
 <div align="center">
 
-![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core_9-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core_10-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23_12-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![SignalR](https://img.shields.io/badge/SignalR-00ADD8?style=for-the-badge&logo=socket.io&logoColor=white)
 
