@@ -412,17 +412,17 @@ public class ApiKeyAuthAttribute : Attribute, IAsyncActionFilter
 
 <div align="center">
     
-<img src="Images/1.jpg" width="90%" style="border: 4px solid #0066FF; border-radius: 12px; box-shadow: 0 8px 16px rgba(0,102,255,0.3);">
+<img src="OSV/Images/1.jpg" width="90%" style="border: 4px solid #0066FF; border-radius: 12px; box-shadow: 0 8px 16px rgba(0,102,255,0.3);">
 <br/>
-<img src="Images/2.jpg" width="90%" style="border: 4px solid #0066FF; border-radius: 12px; box-shadow: 0 8px 16px rgba(0,102,255,0.3);">
+<img src="OSV/Images/2.jpg" width="90%" style="border: 4px solid #0066FF; border-radius: 12px; box-shadow: 0 8px 16px rgba(0,102,255,0.3);">
 <br/>
-<img src="Images/3.jpg" width="90%" style="border: 4px solid #0066FF; border-radius: 12px; box-shadow: 0 8px 16px rgba(0,102,255,0.3);">
+<img src="OSV/Images/3.jpg" width="90%" style="border: 4px solid #0066FF; border-radius: 12px; box-shadow: 0 8px 16px rgba(0,102,255,0.3);">
 <br/>
-<img src="Images/4.jpg" width="90%" style="border: 4px solid #0066FF; border-radius: 12px; box-shadow: 0 8px 16px rgba(0,102,255,0.3);">
+<img src="OSV/Images/4.jpg" width="90%" style="border: 4px solid #0066FF; border-radius: 12px; box-shadow: 0 8px 16px rgba(0,102,255,0.3);">
 <br/>
-<img src="Images/5.jpg" width="90%" style="border: 4px solid #0066FF; border-radius: 12px; box-shadow: 0 8px 16px rgba(0,102,255,0.3);">
+<img src="OSV/Images/5.jpg" width="90%" style="border: 4px solid #0066FF; border-radius: 12px; box-shadow: 0 8px 16px rgba(0,102,255,0.3);">
 <br/>
-<img src="Images/6.jpg" width="90%" style="border: 4px solid #0066FF; border-radius: 12px; box-shadow: 0 8px 16px rgba(0,102,255,0.3);">
+<img src="OSV/Images/6.jpg" width="90%" style="border: 4px solid #0066FF; border-radius: 12px; box-shadow: 0 8px 16px rgba(0,102,255,0.3);">
 <br/>
 
 </div>
@@ -434,9 +434,9 @@ Business-critical operations executed via stored functions for atomicity and spe
 
 <div align="center">
     
-<img src="Images/7.jpg" width="90%" style="border: 4px solid #0066FF; border-radius: 12px; box-shadow: 0 8px 16px rgba(0,102,255,0.3);">
+<img src="OSV/Images/7.jpg" width="90%" style="border: 4px solid #0066FF; border-radius: 12px; box-shadow: 0 8px 16px rgba(0,102,255,0.3);">
 <br/>
-<img src="Images/8.jpg" alt="Scalar API Documentation" width="90%" style="border: 4px solid #0066FF; border-radius: 12px; box-shadow: 0 8px 16px rgba(0,102,255,0.3);">
+<img src="OSV/Images/8.jpg" width="90%" style="border: 4px solid #0066FF; border-radius: 12px; box-shadow: 0 8px 16px rgba(0,102,255,0.3);">
 <br/>
 
 </div>
