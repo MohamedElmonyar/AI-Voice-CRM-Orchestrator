@@ -440,11 +440,11 @@ Business-critical operations executed via stored functions for atomicity and spe
 <br/>
 
 </div>
+
 **Benefits:**
 - **Atomicity:** All validation and insert logic in a single transaction
 - **Performance:** No ORM overhead, direct SQL execution
 - **Maintainability:** Business rules live in version-controlled SQL functions
-
 ---
 
 ### 📡 **Real-Time Updates with SignalR**
